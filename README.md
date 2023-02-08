@@ -3,7 +3,7 @@ Google Cloud Function written in Go that will schedule evergreen content to soci
 
 ## Technologies Used
 
-Go
-Google Cloud Functions (paid)
-OpenAI
-Ayrshare API (paid)
++ Go
++ Google Cloud Functions (paid)
++ OpenAI
++ Ayrshare API (paid)
